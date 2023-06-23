@@ -54,7 +54,7 @@ public class UI {
 		mainTextPanel.setBackground(Color.black);
 		mainTextPanel.setBounds(100,100,600,250);
 		
-		mainTextArea = new JTextArea("This is where the main text is. This game is going to be great. I'm sure of it.");
+		mainTextArea = new JTextArea();
 		mainTextArea.setBounds(100,100,600,250);
 		mainTextArea.setBackground(Color.black);
 		mainTextArea.setForeground(Color.white);
